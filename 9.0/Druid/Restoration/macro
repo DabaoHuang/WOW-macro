@@ -1,0 +1,11 @@
+/cast 自然迅捷
+/cast [mod:ctrl][@mouseover] 滋補術
+/cast [@mouseover] 癒合
+
+/cast [@cursor] 生命綻放
+
+/cast [@focus] 生命之花
+
+/cast [@focus] 野性痊癒
+
+/cast [@mouseover] 回春術
